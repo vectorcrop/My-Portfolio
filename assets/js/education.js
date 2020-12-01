@@ -155,7 +155,7 @@ const timeline = document.querySelector(".timeline");
 const timelinesection = [
   {
     heading: "Govt.High School Kozhikode",
-    image: "./assets/images/project-page/edu1.jpg",
+    image: "./assets/images/edu1.jpg",
     subheading:"Bio Science Normal Student, (2015-2017)",
   },
 
