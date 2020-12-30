@@ -171,11 +171,6 @@ const timelinesection = [
     subheading:"Bachelors of Science, Computer Science & Engineering, (2019-2022)",
   },
 
-  {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Master of Science, Computer Science & Engineering, (2022-2024)",
-  },
 ];
 
 const showCards2 = () => {
